@@ -85,3 +85,4 @@ import warnings
 warnings.filterwarnings("ignore")
 ```
 ## <a name="Section-21">2.1 Imports and Reading Data</a>
+I uploaded the data set to my own repository on GitHub. It is publicly accessible online, so there is no danger that this data set will be deleted sometime during this project or shortly after it and there would be an inconsistency in the Jupyter notebook.
