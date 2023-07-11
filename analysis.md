@@ -88,7 +88,7 @@ warnings.filterwarnings("ignore")
 I uploaded the data set to my own repository on GitHub. It is publicly accessible online, so there is no danger that this data set will be deleted sometime during this project or shortly after it, and there would be an inconsistency in the Jupyter notebook.
 ```python
 # The file path to my online Github Repository with the "world_population.csv" file
-filePath = r'https://github.com/raolitesh/Statistics_regression/blob/main/output.csv'
+filePath = r'https://github.com/raolitesh/Statistics_regression/blob/main/data.csv'
 df = pd.read_csv(filePath, encoding = 'unicode_escape', engine ='python')
 ```
 
