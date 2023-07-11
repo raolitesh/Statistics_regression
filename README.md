@@ -1,4 +1,5 @@
 # <center>Katz School of Science and Health</center>
+# <center>Yeshiva University</center>
 # <center>Computational Statistics and Probability</center>
 <br><br>
 
